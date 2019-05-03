@@ -1,3 +1,3 @@
-#simpleblog
-###usage: webdev bootcamp blog tutorial
+# simpleblog
+### usage: webdev bootcamp blog tutorial
 
